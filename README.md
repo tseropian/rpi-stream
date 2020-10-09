@@ -8,3 +8,7 @@
 
 ## Software
 - FFMpeg :-)
+
+## Links
+- https://github.com/speedify/rpi-streaming-experiment
+- https://assortedhackery.com/patching-cam-link-to-play-nicer-on-linux/
