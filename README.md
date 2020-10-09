@@ -1,3 +1,10 @@
-# Streamiing from a Rasperry Pi 4
+# Streaming from a Rasperry Pi 4
 
-Complete setup to come
+## Hardware
+- Fuji X-T3
+- Elgato CamLink 4K
+- Rasperry Pi 4
+- 4G
+
+## Software
+- FFMpeg :-)
