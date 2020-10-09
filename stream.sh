@@ -6,5 +6,5 @@ ffmpeg \
 -b:v 1000k -bufsize 1000k -bufsize 10M -g 50 -crf 18  \
 -acodec aac -b:a 128k -ar 44100 \
 -drop_pkts_on_overflow 1 -attempt_recovery 1 -recovery_wait_time 1 \
--preset ultrafast -f flv rtmp://a.rtmp.youtube.com/live2/u7x0-rx4s-ygeh-y92p-cjpw
+-preset ultrafast -f flv rtmp://a.rtmp.youtube.com/live2/YOUTUBE_KEY
 
